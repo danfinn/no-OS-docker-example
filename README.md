@@ -3,6 +3,6 @@ Very simple example of a Docker container without an OS.  It uses a Go binary th
 You can run this locally with the following command:
 ```docker run -p 8080:8080 dfinn/no-os-docker-example```
 
-and then point your browser at (http://localhost:8080/)
+and then point your browser at http://localhost:8080/
 
-[DockerHub](https://hub.docker.com/repository/docker/dfinn/no-os-docker-example) - DockerHub repo
+[DockerHub Repo](https://hub.docker.com/repository/docker/dfinn/no-os-docker-example)
